@@ -1,0 +1,22 @@
+h1{
+  text-align: center;
+  background-color: rgb(41, 150, 234);
+  padding-bottom: 15px;
+  padding-top: 15px;
+}
+
+
+ul{
+  margin: auto;
+  width: 200px;
+  
+}
+div{
+  text-align: right;
+  float: left;
+  
+} 
+ul li{
+  background-color: aqua;
+  
+}
